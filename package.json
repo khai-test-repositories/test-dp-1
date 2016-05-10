@@ -1,0 +1,19 @@
+{
+  "name": "test-dp-1",
+  "main": "./lib/test-dp-1",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "test-dp-1:toggle"
+  },
+  "repository": "https://github.com/khai-test-repositories/test-dp-1.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "packageDependencies": {
+  	"test-dp-0": "0.0.0"
+  }
+}
