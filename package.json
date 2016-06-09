@@ -1,7 +1,7 @@
 {
   "name": "test-dp-1",
   "main": "./lib/test-dp-1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
@@ -13,7 +13,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependences": {
-      "nodejs-test": "khai-test-repositories/nodejs-test"
+    "nodejs-test": "khai-test-repositories/nodejs-test"
   },
   "packageDependencies": {
     "test-dp-0": "0.0.0"
