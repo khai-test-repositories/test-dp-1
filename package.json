@@ -12,6 +12,9 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
+  "dependences": {
+      "nodejs-test": "khai-test-repositories/nodejs-test"
+  },
   "packageDependencies": {
     "test-dp-0": "0.0.0"
   }
